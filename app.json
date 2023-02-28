@@ -1,10 +1,10 @@
 {
-  "name": "TheMystic-Bot-MD",
-  "website": "https://github.com/BrunoSobrino",
-  "description": "Subscribete a The Shadow Borkers - Bot (≧▽≦)",
-  "repository": "https://github.com/BrunoSobrino/Mystic-termux",
-  "logo": "https://raw.githubusercontent.com/BrunoSobrino/Mystic-termux/master/src/pictures/heroku-icon.jpg",
-  "success_url": "https://github.com/BrunoSobrino/Mystic-termux",
+  "name": "Bot-MD",
+  "website": "https://github.com/Lgbtq",
+  "description": "Subscribete a The Bot (≧▽≦)",
+  "repository": "https://github.com/Mystic-termux",
+  "logo": "https://raw.githubusercontent.com/Mystic-termux/master/src/pictures/heroku-icon.jpg",
+  "success_url": "https://github.com/Mystic-termux",
   "keywords": [
     "nodejs",
     "heroku",
